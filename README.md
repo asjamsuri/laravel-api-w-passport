@@ -1,4 +1,4 @@
-# aisle
+# laravel-api-w-passport
 This website is intended to demonstrate API Authentication using Laravel Passport as described in 
 [this post](https://medium.com/@asjamsuri/api-authentication-dengan-menggunakan-laravel-passport-d2d4c12828a6)
 

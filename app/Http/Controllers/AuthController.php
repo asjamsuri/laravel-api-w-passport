@@ -12,7 +12,6 @@ use App\Http\Requests\Auth\{
     AuthLoginRequest,
     AuthRegisterRequest
 };
-use App\Services\AuthService;
 
 class AuthController extends Controller
 {
